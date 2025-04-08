@@ -1,0 +1,69 @@
+KRISHNA NISHANT PORTFOLIO - SCRAPED CONTENT
+
+HOME SECTION
+-----------
+Title: Full Stack  Full Stack Developer  Developer
+Subtitle: Backen
+Description: Building innovative, functional, and user-friendly web solutions with a passion for clean code and seamless experiences.
+
+SKILLS TAGS
+-----------
+Share, Ready to Innovate, React, Javascript, Node.js, MongoDB
+
+PROJECTS SECTION
+---------------
+Title: Portfolio Showcase
+
+Project 12: Contest Tracker
+Description: Contest Tracker is a full-stack MERN application designed for competitive programmers to stay updated on upcoming coding contests from platforms like Codeforces, CodeChef, and LeetCode. The app offers real-time contest tracking with advanced filtering options based on platforms, dates, and contest status. Users can bookmark favorite contests, view today's competitions at a glance, and track past contests with solution links.
+
+Project 13: SociaLink
+Description: SociaLink is a real-time chat application that enables users to connect and communicate instantly. Built with modern web technologies, it offers a seamless messaging experience with features like real-time message delivery, online user status, and image sharing capabilities.
+
+Project 14: AI Lead Management System
+Description: The AI-Powered Lead Management System is designed to help businesses track, score, and engage with leads efficiently. It automates lead capture, assigns scores based on user interactions, and triggers marketing actions accordingly. The system also provides an admin dashboard to manage leads and view analytics. With AI-based scoring and automated follow-ups, businesses can enhance their conversion rates and optimize sales workflows.
+
+Project 15: Culinary Delight
+Description: Culinary Delight is a user-friendly application that allows users to discover, save, and share their favorite recipes. Users can search for recipes by ingredients or categories, submit their own community recipes with images, rate and review recipes from other users, and manage their favorites in a personalized collection. The application features user authentication, detailed recipe instructions, and a modern responsive interface with dark mode support.
+
+Project 16: QuestSearch
+Description: QuestSearch is a specialized search platform for finding curated questions and answers across different categories. The application provides an intuitive interface with real-time search highlighting, advanced filtering options, and server-side pagination for efficient browsing. Built with modern React and TypeScript, it offers a responsive design that works seamlessly across devices.
+
+Project 17: Smart Voice
+Description: Smart Voice is an AI-powered voice assistant application that transcribes and analyzes spoken meetings and conversations. It automatically extracts key information such as meeting details, action items, decisions, and summaries, allowing users to focus on the conversation instead of taking notes. The app transcribes voice recordings in real-time and uses advanced NLP to generate structured summaries that can be easily shared via email.
+
+TECH STACK
+----------
+ReactJSNode JSMongo DBExpress JSTailwind CSSJavaScriptC++TypeScriptSQLSocket.IOCSSViteHTML
+
+TOOLS
+-----
+GitGitHubPostmanVisual Studio CodeVercelRenderNPMChatGPTShadcnMaterial UICanva
+
+PROJECT 1 DEMO
+----------------
+Title: Contest Tracker
+URL: https://contest-tracker-krishna.vercel.app/
+
+PROJECT 2 DEMO
+----------------
+Title: SociaLink
+URL: https://socialink-chat.vercel.app/
+
+CONTACT SECTION
+--------------
+Heading: Connect With Me
+
+Social Links:
+- GitHub: https://github.com/krishna-nishant (https://github.com/krishna-nishant)
+- LinkedIn: https://www.linkedin.com/in/krishna-nishant/ (https://www.linkedin.com/in/krishna-nishant/)
+- Instagram: https://www.instagram.com/krishna_0795_ (https://www.instagram.com/krishna_0795_)
+- LinkedIn: Let's Connecton LinkedIn (https://www.linkedin.com/in/krishna-nishant)
+- GitHub: GitHub@krishna-nishant (https://github.com/krishna-nishant)
+- Instagram: Instagram@krishna_0795_ (https://www.instagram.com/krishna_0795_)
+
+ABOUT SECTION
+-------------
+Heading: About Me
+Content: Transforming ideas into digital experiences
+
